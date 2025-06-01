@@ -35,13 +35,13 @@ The primary goal of this repository is to offer developers and designers a versa
 - Simple JavaScript Integration: Basic JavaScript is included to handle form submission, demonstrating where to hook in your backend logic or email marketing service.
 
 # Live Demo
-You can view live demos of each newsletter box by opening the respective HTML files in your web browser.
+You can view live demos of each newsletter box by clicking here or opening the respective HTML files in your web browser.
 
-- [newsletter-minimalist-blue.html]
-- [newsletter-earthy-tones.html]
-- [newsletter-vibrant-pop.html]
-- [newsletter-sophisticated-green.html]
-- [newsletter-modern-dark.html]
+- [newsletter-minimalist-blue.html](https://khalid-randhawa.web.app/apps-projects/newletter/newsletter-Minimalist-Blue.html)
+- [newsletter-earthy-tones.html](https://khalid-randhawa.web.app/apps-projects/newletter/newsletter-Earthy-Tones.html)
+- [newsletter-vibrant-pop.html](https://khalid-randhawa.web.app/apps-projects/newletter/newsletter-Vibrant-Pop.html)
+- [newsletter-sophisticated-green.html](https://khalid-randhawa.web.app/apps-projects/newletter/newsletter-Sophisticated-Green.html)
+- [newsletter-modern-dark.html](https://khalid-randhawa.web.app/apps-projects/newletter/newsletter-Modern-Dark.html)
     - (Note: If viewing on GitHub, you may need to download the repository and open the files locally to see the live rendering.)
 
 # Getting Started
